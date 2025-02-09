@@ -7,5 +7,7 @@
 4. "Hello": Nội dung bất kì muốn read/write vào filename
 
 Example:
+
 ./app thanh 100 r
+
 ./app thanh 100 w hello
